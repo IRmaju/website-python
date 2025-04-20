@@ -1,4 +1,4 @@
-# 🌐 Streamlit Web App – Welcome App
+# 🌐 Streamlit Web site python – Welcome App
 
 This is a simple Python-based web app built using **Streamlit**.  
 It allows users to enter their name and get a personalized greeting on the screen.
